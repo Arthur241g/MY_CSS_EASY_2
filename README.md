@@ -1,19 +1,19 @@
 # Welcome to My Css Is Easy Ii
 ***
-
+Welcome to my_css_is_easy_II
 ## Task
-TODO - What is the problem? And where is the challenge?
+The problem and the challenge is to learn and discover the Framework BOOTSTRAP for facilitate the Work.
 
 ## Description
-TODO - How have you solved the problem?
+I've find how to take this framework in my hand and how to use this last for reproduce the model training of Qwasar. Personally i prefer the framework tailwindcss but this last don't work with gandalf... I don't know why ?
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+For this project we haven't need installation.
 
 ## Usage
-TODO - How does it work?
+The way is :
 ```
-./my_project argument1 argument2
+./my_project index.html style.css
 ```
 
 ### The Core Team
